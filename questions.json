@@ -1,0 +1,74 @@
+[
+  {
+    "question": "ما هي عاصمة فرنسا؟",
+    "options": ["برلين", "مدريد", "باريس", "روما", "لندن", "الرياض", "القاهرة"],
+    "correctIndex": 2,
+    "timeLimit": 150
+  },
+  {
+    "question": "كم يساوي 7 × 8؟",
+    "options": ["54", "this", "58", "64", "54", "56", "58", "64"],
+    "correctIndex": 1,
+    "timeLimit": 100
+  },
+  {
+    "question": "أي كوكب يُعرف بالكوكب الأحمر؟",
+    "options": ["الزهرة", "المشتري", "زحل", "this"],
+    "correctIndex": 3,
+    "timeLimit": 150
+  },
+  {
+    "question": "ما هو أكبر محيط على وجه الأرض؟",
+    "options": ["الأطلسي", "الهندي", "الهادئ", "المتجمد الشمالي"],
+    "correctIndex": 2,
+    "timeLimit": 150
+  },
+  {
+    "question": "من كتب \"روميو وجولييت\"؟",
+    "options": ["تشارلز ديكنز", "ويليام شكسبير", "جين أوستن", "مارك توين"],
+    "correctIndex": 1,
+    "timeLimit": 150
+  },
+  {
+    "question": "كم عدد أضلاع المسدس؟",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "timeLimit": 100
+  },
+  {
+    "question": "ما هو الرمز الكيميائي للماء؟",
+    "options": ["O2", "CO2", "H2O", "HO"],
+    "correctIndex": 2,
+    "timeLimit": 100
+  },
+  {
+    "question": "أي كوكب يُعرف بالكوكب الأحمر؟",
+    "options": ["الزهرة", "المشتري", "زحل", "this"],
+    "correctIndex": 3,
+    "timeLimit": 150
+  },
+  {
+    "question": "ما هو أكبر محيط على وجه الأرض؟",
+    "options": ["الأطلسي", "الهندي", "الهادئ", "المتجمد الشمالي"],
+    "correctIndex": 2,
+    "timeLimit": 150
+  },
+  {
+    "question": "من كتب \"روميو وجولييت\"؟",
+    "options": ["تشارلز ديكنز", "ويليام شكسبير", "جين أوستن", "مارك توين"],
+    "correctIndex": 1,
+    "timeLimit": 150
+  },
+  {
+    "question": "كم عدد أضلاع المسدس؟",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "timeLimit": 100
+  },
+  {
+    "question": "ما هو الرمز الكيميائي للماء؟",
+    "options": ["O2", "CO2", "H2O", "HO"],
+    "correctIndex": 2,
+    "timeLimit": 100
+  }
+]
